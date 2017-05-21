@@ -7,10 +7,11 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
+ * 
  * @description 
- * @author 李真(Abel.li)
+ * @author Abel.li
  * @contact abel0130@163.com
- * @version 
+ * @version
  */
 @RestController
 @EnableAutoConfiguration
